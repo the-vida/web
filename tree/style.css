@@ -1,5 +1,5 @@
 body {
-background: black;
+background: white;
 color: #fff;
 font-family: 'Open Sans', sans-serif;
 font-size: 15px;
@@ -9,7 +9,7 @@ img {
 border-radius: 50%;
 }
 .profile-picture {
-background-color: #fff;
+color: #fff;
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -45,6 +45,6 @@ font-size: 20px;
 font-weight: bold;
 }
 a:hover {
-color: #000;
+color: #fff;
 background: #fff;
 }
