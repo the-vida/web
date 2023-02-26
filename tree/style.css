@@ -1,6 +1,6 @@
 body {
 background: gray;
-color: #ffffff;
+color: #000000;
 font-family: 'Open Sans', sans-serif;
 font-size: 15px;
 letter-spacing: 2px;
@@ -45,5 +45,5 @@ font-weight: bold;
 }
 a:hover {
 color: white;
-background: #000000;
+background: #ffffff;
 }
