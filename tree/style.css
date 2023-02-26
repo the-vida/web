@@ -9,7 +9,7 @@ img {
 border-radius: 50%;
 }
 .profile-picture {
-drop-shadow(offset-x offset-y color: #fff);
+drop-shadow(offset-x offset-y color: #000);
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -46,5 +46,5 @@ font-weight: bold;
 }
 a:hover {
 color: #fff;
-background: #fff;
+background: #000;
 }
