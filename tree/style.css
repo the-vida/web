@@ -1,5 +1,5 @@
 body {
-background: white;
+background: gray;
 color: #fff;
 font-family: 'Open Sans', sans-serif;
 font-size: 15px;
@@ -45,5 +45,5 @@ font-weight: bold;
 }
 a:hover {
 color: black;
-background: #fff;
+background: #000000;
 }
