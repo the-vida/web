@@ -9,7 +9,7 @@ img {
 border-radius: 50%;
 }
 .profile-picture {
-color: #fff;
+drop-shadow(offset-x offset-y color: #fff);
 display: block;
 margin-left: auto;
 margin-right: auto;
